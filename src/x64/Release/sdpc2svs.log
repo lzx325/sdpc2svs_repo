@@ -1,0 +1,17 @@
+﻿  sdpc2svs.cpp
+e:\vmware share\ubuntu\sdpc2svs\sdpc2svs\include\jpegwindows\jconfig.h(27): warning C4005: “HAVE_BOOLEAN”: 宏重定义
+  e:\vmware share\ubuntu\sdpc2svs\sdpc2svs\include\jpegwindows\jconfig.h(27): note: 命令行参数: 参见前面的“HAVE_BOOLEAN”定义
+e:\vmware share\ubuntu\sdpc2svs\sdpc2svs\include\param.h(40): warning C4838: 从“double”转换到“const float”需要收缩转换
+e:\vmware share\ubuntu\sdpc2svs\sdpc2svs\include\param.h(40): warning C4305: “初始化”: 从“double”到“const float”截断
+E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\include\CSvsParam.h(5): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+sdpc2svs.cpp(7): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+  stdafx.cpp
+    正在创建库 E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\sdpc2svs.lib 和对象 E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\sdpc2svs.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+CSvs.lib(CSvs.obj) : warning LNK4099: 未找到 PDB“CSvs.pdb”(使用“CSvs.lib(CSvs.obj)”或在“E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\CSvs.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+CSvs.lib(DecodeHevc.obj) : warning LNK4099: 未找到 PDB“DecodeHevc.pdb”(使用“CSvs.lib(DecodeHevc.obj)”或在“E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\DecodeHevc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  sdpc2svs.vcxproj -> E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\sdpc2svs.exe
+  sdpc2svs.vcxproj -> E:\VMware Share\ubuntu\sdpc2svs\sdpc2svs\x64\Release\sdpc2svs.pdb (Full PDB)
